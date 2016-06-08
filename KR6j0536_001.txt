@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:34:23.825573
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:25
 #+TITLE: 北斗七星念誦儀軌
 #+PROPERTY: CBETA_ID T21n1305
 #+PROPERTY: ID KR6j0536
