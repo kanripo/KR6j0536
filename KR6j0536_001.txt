@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:34:23.126187
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:25
 #+TITLE: 北斗七星念誦儀軌
 #+PROPERTY: CBETA_ID T21n1305
 #+PROPERTY: ID KR6j0536
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 21, No. 1305
 #+PROPERTY: VOL 21
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0536_T_000-0423c>¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0536_T_001-0423c> ¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1305¶
-
- 北斗七星念誦儀軌¶
+No. 1305¶
+北斗七星念誦儀軌¶
 ¶
 南天竺國三藏金剛智譯¶
 
